@@ -30,6 +30,7 @@ class derive: private base
            cout << "x is not accessible" << endl;
                cout << "value of y is " << y << endl;
                cout << "value of z is " << z << endl;
+               cout << "private acess specifiers" << endl;
         }
 };
 int main()
